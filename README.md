@@ -1,2 +1,2 @@
 # Chain-of-Thoughts-Papers
-a a repository that collects papers related to chain-of-thought reasoning methodologies.
+a repository that collects papers related to chain-of-thought reasoning methodologies.
