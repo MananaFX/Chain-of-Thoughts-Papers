@@ -17,7 +17,7 @@ a repository that collects papers related to chain-of-thought reasoning methodol
 
 4. **Let’s Think Dot by Dot: Hidden Computation in Transformer Language Models**
 
-    *Let's Think Dot by Dot: Hidden Computation in Transformer Language Models [pdf](https://arxiv.org/abs/2404.15758 "arxiv") [code](https://github.com/JacobPfau/fillerTokens) 2024.04*
+    *Jacob Pfau, William Merrill, Samuel R. Bowman [pdf](https://arxiv.org/abs/2404.15758 "arxiv") [code](https://github.com/JacobPfau/fillerTokens) 2024.04*
 
 5. **C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness**
 
