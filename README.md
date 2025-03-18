@@ -1,4 +1,4 @@
-# Chain-of-Thoughts-Papers
+# Chain-of-Thoughts-Compression-Papers
 a repository that collects papers related to chain-of-thought reasoning methodologies.
 
 ## CoT Compression
