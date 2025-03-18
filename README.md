@@ -65,8 +65,6 @@ a repository that collects papers related to chain-of-thought reasoning methodol
 
     *Liunian Harold Li, Jack Hessel, Youngjae Yu, Xiang Ren, Kai-Wei Chang, Yejin Choi [pdf](https://arxiv.org/abs/2306.14050) 2024.04*
 
-    小模型的CoT能力可以从大模型蒸馏中得到：从大型语言模型中采样出链式思考理由，然后训练小型语言模型来预测采样的理由和标签
-
 5. **S²R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning.**
 
     *Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li. Preprint'25 [pdf](https://arxiv.org/abs/2502.12853) [code](https://github.com/NineAbyss/S2R)*
@@ -74,9 +72,6 @@ a repository that collects papers related to chain-of-thought reasoning methodol
 6. **Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters**
 
     *Boshi Wang, Sewon Min, Xiang Deng, Jiaming Shen, You Wu, Luke Zettlemoyer, Huan Sun [pdf](https://arxiv.org/abs/2212.10001) 2023.06*
-
-    - LLMs并不能从Prompt中的CoT样例中学习怎么去推理
-    - 模型的推理能力是从预训练中得到的
 
 7. **To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**
 
